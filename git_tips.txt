@@ -1,4 +1,4 @@
 git add 文件名
 git commit - m "注释内容"
-git remote add push origin master //推送到远端库
+git push origin master //推送到远端库
  
