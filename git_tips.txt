@@ -4,3 +4,7 @@ git push origin master/分支名 //将主分支/分支名推送到远端库   如果远端没有推送的
 git branch 分支名 //创建本地分支  如git branch cp  创建cp本地分支
 git branch -a //查看本地分支和远程分支   远程分支会有  remotes/origin/分支名 区别本地分支
 git checkout 分支名  //切换分支
+git init //建立本地仓库
+git clone [url]   //克隆现有仓库  
+例如: git clone git@github.com:chenpengcp1987/mygit_5_30.git
+rm -rf  xxx  //删除文件
